@@ -1,0 +1,25 @@
+/*Font Family*/
+
+
+/*Common Start*/
+:root{
+   --black :#000000;
+   --green :#21B573;
+   --white :#ffffff;
+   --red   :#FD511A;
+
+   
+}
+body{
+   margin: 0;
+   padding: 0;
+   font-family: var(--pop);
+   font-size: 16px;
+   font-weight:400 ;
+   color: var(--black);
+}
+/*Common End*/
+.container{
+   /*background-color: var(--black);*/
+}
+
